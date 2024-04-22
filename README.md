@@ -1,2 +1,2 @@
 # DACOOP--Evictions
-Was using Excel, Tableau, SQL, Google Sheets, and slides to present our findings of Evictions in NYC
+We used Excel, Tableau, SQL, Google Sheets, and Google slides to present our findings on Evictions in NYC
